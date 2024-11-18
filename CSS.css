@@ -92,7 +92,7 @@ nav ul li a:hover {
     background-image: linear-gradient(to bottom, white, rgba(214, 132, 221, 0.788));
     border-radius: 8px;
     max-width: 600px;
-    margin: 20px auto;
+    margin: 200px auto;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
